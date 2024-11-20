@@ -1,2 +1,5 @@
-# redesignfifteen
-Redesigning Twentyfifteen, back to its former glory. 
+# REDESIGNFIFTEEN (Twentyfifteen child theme) [EN] 
+
+---
+
+*- Redesigning Twentyfifteen, back to its former glory.*

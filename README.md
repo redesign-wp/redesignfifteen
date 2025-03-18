@@ -1,1 +1,3 @@
-# redesignfifteen
+# REDESIGNFIFTEEN (TWENTYFIFTEEN CHILD THEME)
+
+---
